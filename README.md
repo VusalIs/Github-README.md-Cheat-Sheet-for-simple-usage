@@ -1,4 +1,4 @@
-# Github-Cheat-Sheet-for-simple-usage
+# Github-README.md-Cheat-Sheet-for-simple-usage
 
 This cheat sheet will help you to create simple structured README.md files which is one of the main things to show your code more understandle for others.
 
