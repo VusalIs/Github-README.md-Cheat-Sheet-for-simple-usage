@@ -4,6 +4,7 @@ This cheat sheet will help you to create simple structured README.md files which
 
 #### List of topics
 
+- [Introduction](#Introduction)
 - [Headers](#Headers)
 - [Lists](#Lists)
     - [Unordered Lists](#-unordered-lists)
@@ -12,6 +13,43 @@ This cheat sheet will help you to create simple structured README.md files which
 - [Images](#images)
 - [Table](#table)
 - [Tips](#tips)
+
+# Introduction
+
+Writing code and push it to the GitHub is a great thing for either starting to programming or contribute to society. But if you wanna show what you have done during the process and explain to others how to use it, a great thing to express yourself. In this guide, I will show you Markdown which will help you write the README section in a sophisticated way. Firstly let's look at two examples. First one will be written without any Markdown, and  the second one uses styling and make life easier for readers(I have taken this section from https://github.com/expressjs/express):
+
+##### First 
+
+This is a Node.js module available through the
+npm registry.
+
+Before installing, download and install Node.js.
+Node.js 0.10 or higher is required.
+
+If this is a brand new project, make sure to create a `package.json` first with
+the npm init.
+
+Installation is done using the
+npm install:
+
+#### Second
+
+
+
+This is a [Node.js](https://nodejs.org/en/) module available through the
+[npm registry](https://www.npmjs.com/).
+
+Before installing, [download and install Node.js](https://nodejs.org/en/download/).
+Node.js 0.10 or higher is required.
+
+If this is a brand new project, make sure to create a `package.json` first with
+the [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file).
+
+Installation is done using the
+[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+
+
+Which one is good? I thing, I is time to start ;)
 
 # Headers
 
