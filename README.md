@@ -26,7 +26,7 @@ npm registry.
 Before installing, download and install Node.js.
 Node.js 0.10 or higher is required.
 
-If this is a brand new project, make sure to create a `package.json` first with
+If this is a brand new project, make sure to create a package.json first with
 the npm init.
 
 Installation is done using the
