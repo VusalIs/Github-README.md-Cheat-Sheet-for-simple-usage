@@ -10,6 +10,7 @@ This cheat sheet will help you to create simple structured README.md files which
     - [Unordered Lists](#-unordered-lists)
     - [Ordered Lists](#-ordered-lists)
 - [Add links to the text(Add README.md references)](#add-links-to-the-text)
+- [Add video to README section](#add-video-to-readme-section)
 - [Images](#images)
 - [Table](#table)
 - [Tips](#tips)
@@ -205,6 +206,12 @@ Please use to change color `Color.setColor(Colors.red);`
 
 console.log("Hello");
 ```
+
+# Add video to README section
+
+Unfortunantly, I have seen any technique to add a video to your README section. The best way to do this, you can convert your video to gif format, and add reference to README. If you don't have any host service, you can upload gif files to your repository and refenrece to this files throughout relative path. I always prefer to create demo folder which all gif files are stored. Adding a gif is similar to urls to the file. `![Default text](relevante_path.gif)`
+
+![Gif not found](demo/colors.gif)
 
 # Images
 
