@@ -211,6 +211,10 @@ console.log("Hello");
 
 Unfortunantly, I have seen any technique to add a video to your README section. The best way to do this, you can convert your video to gif format, and add reference to README. If you don't have any host service, you can upload gif files to your repository and refenrece to this files throughout relative path. I always prefer to create demo folder which all gif files are stored. Adding a gif is similar to urls to the file. `![Default text](relevante_path.gif)`
 
+```html
+![Gif not found](demo/colors.gif)
+```
+
 ![Gif not found](demo/colors.gif)
 
 # Images
